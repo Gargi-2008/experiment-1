@@ -1,7 +1,6 @@
 # experiment-1
 In this code i have used the lines of code to introduce myself and the the college i study in.
 #include<stdio.h>
-# Variables storing the details
 int main()
 {
 char name[ ] = "John Doe";
@@ -9,8 +8,6 @@ int age = 16;
 char student_class[ ] = "11th";
 char division = ‘A’;
 char uin[ ] = "UIN12345678";
-
-# Printing the formatted output using escape sequences
 printf("==============================");
 printf("       STUDENT PROFILE        ")
 printf("==============================");
